@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+lambda.zip
 develop-eggs/
 dist/
 downloads/
@@ -127,3 +128,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# LLM configuration
+.claude/
